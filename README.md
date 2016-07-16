@@ -10,5 +10,5 @@
       into a single data set and summarizes the means of all 
       variables with "mean" or "std" in the UCI defined name
 
-##Activity and derived variable names are explained in the README.txt file that is downloaded 
+Activity and derived variable names are explained in the README.txt file that is downloaded 
   in the Getting.R script.
